@@ -1,0 +1,34 @@
+li {
+  display: inline;
+}
+.inline-block {
+  display: inline-block;
+}
+.half-width {
+  width: 49%;
+}
+.navbar li a {
+  text-decoration: none;
+  color: red;
+  padding-right: 8px;
+}
+.navbar {
+  text-align: right;
+}
+.logo {
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYbXllncJPa1D8BD8W8JDxaYqjQt5Hx4hJA1WQNg62nbdi6UKDSQ');
+  height: 50px;
+  width: 50px;
+  background-size: cover;
+}
+.contact {
+}
+
+.contact a {
+  text-decoration: none;
+}
+.contact ul {
+  list-style-type: none;
+}
+.contact li a:before {
+}
